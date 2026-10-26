@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Internet-Of-Things-IOT/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Internet-Of-Things-IOT?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Internet-Of-Things-IOT/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Internet-Of-Things-IOT?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Internet-Of-Things-IOT/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Internet-Of-Things-IOT?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Internet-Of-Things-IOT/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Internet-Of-Things-IOT/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -70,129 +70,129 @@ Open-source IoT software enables organizations to retain complete data sovereign
 
 ### 🏆 Open-Source Quick Comparison
 
-The following table includes all featured open-source repositories **sorted descending by GitHub star count**:
+The following table includes all featured open-source repositories **sorted descending by GitHub Stars_Count**:
 
-| Rank | Project & Repository | GitHub Stars | Architecture & Core Tech | Primary Protocols | Best Used For |
+| Rank | Project & Repository | GitHub_Stars | Architecture & Core Tech | Primary Protocols | Best Used For |
 | :---: | :--- | :---: | :--- | :--- | :--- |
-| **1** | **[Home Assistant](https://github.com/home-assistant/core)** | [![GitHub stars](https://img.shields.io/github/stars/home-assistant/core?style=social&color=white)](https://github.com/home-assistant/core/stargazers) | Python, Asyncio, SQLite/PostgreSQL | MQTT, Zigbee, Z-Wave, Matter, HTTP | Local-first smart home & building sensor automation |
-| **2** | **[Node-RED](https://github.com/node-red/node-red)** | [![GitHub stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers) | Node.js, Flow-based Visual Runtime | MQTT, HTTP, WebSockets, Modbus, TCP | Visual event-driven logic & hardware integration |
-| **3** | **[ThingsBoard](https://github.com/thingsboard/thingsboard)** | [![GitHub stars](https://img.shields.io/github/stars/thingsboard/thingsboard?style=social&color=white)](https://github.com/thingsboard/thingsboard/stargazers) | Java, Netty, PostgreSQL/Cassandra | MQTT, CoAP, HTTP, LwM2M | Turnkey enterprise IoT platform & rule chains |
-| **4** | **[EMQX](https://github.com/emqx/emqx)** | [![GitHub stars](https://img.shields.io/github/stars/emqx/emqx?style=social&color=white)](https://github.com/emqx/emqx/stargazers) | Erlang/OTP, BEAM, Distributed Cluster | MQTT 3.1.1/5.0, MQTT-SN, CoAP | High-throughput broker handling 100M+ connections |
-| **5** | **[ESPHome](https://github.com/esphome/esphome)** | [![GitHub stars](https://img.shields.io/github/stars/esphome/esphome?style=social&color=white)](https://github.com/esphome/esphome/stargazers) | C++, Python, YAML Configuration | Native API, MQTT, BLE | No-code sensor firmware compilation for ESP8266/ESP32 |
-| **6** | **[Eclipse Mosquitto](https://github.com/eclipse/mosquitto)** | [![GitHub stars](https://img.shields.io/github/stars/eclipse/mosquitto?style=social&color=white)](https://github.com/eclipse/mosquitto/stargazers) | C, Single-threaded Event Loop | MQTT 3.1, 3.1.1, 5.0, WebSockets | Ultra-lightweight edge & gateway MQTT message routing |
-| **7** | **[dgiot](https://github.com/dgiot/dgiot)** | [![GitHub stars](https://img.shields.io/github/stars/dgiot/dgiot?style=social&color=white)](https://github.com/dgiot/dgiot/stargazers) | Erlang/OTP, TDengine Time-Series | Modbus, OPC UA, BACnet, MQTT | Million-device industrial protocol aggregation |
-| **8** | **[Mongoose OS](https://github.com/cesanta/mongoose-os)** | [![GitHub stars](https://img.shields.io/github/stars/cesanta/mongoose-os?style=social&color=white)](https://github.com/cesanta/mongoose-os/stargazers) | C, JavaScript (mJS), FreeRTOS | MQTT, WebSockets, HTTPS | Microcontroller firmware framework with OTA & crypto |
-| **9** | **[Magistrala](https://github.com/absmach/magistrala)** | [![GitHub stars](https://img.shields.io/github/stars/absmach/magistrala?style=social&color=white)](https://github.com/absmach/magistrala/stargazers) | Go, Microservices, NATS, Redis | MQTT, CoAP, HTTP, WebSocket | Cloud-native modular IoT messaging backbone (LF Edge) |
-| **10** | **[EdgeX Foundry](https://github.com/edgexfoundry/edgex-go)** | [![GitHub stars](https://img.shields.io/github/stars/edgexfoundry/edgex-go?style=social&color=white)](https://github.com/edgexfoundry/edgex-go/stargazers) | Go, Dockerized Microservices | REST, MQTT, Modbus, BACnet, OPC UA | Vendor-neutral edge computing interoperability framework |
-| **11** | **[openHAB](https://github.com/openhab/openhab-core)** | [![GitHub stars](https://img.shields.io/github/stars/openhab/openhab-core?style=social&color=white)](https://github.com/openhab/openhab-core/stargazers) | Java, OSGi Modular Architecture | KNX, EnOcean, Z-Wave, MQTT, HTTP | Vendor-neutral enterprise & home automation platform |
-| **12** | **[ChirpStack](https://github.com/chirpstack/chirpstack)** | [![GitHub stars](https://img.shields.io/github/stars/chirpstack/chirpstack?style=social&color=white)](https://github.com/chirpstack/chirpstack/stargazers) | Rust, PostgreSQL, Redis | LoRaWAN 1.0.x / 1.1, MQTT | Self-hosted LoRaWAN Network Server stack |
-| **13** | **[nodrix](https://github.com/decoded-cipher/nodrix)** | [![GitHub stars](https://img.shields.io/github/stars/decoded-cipher/nodrix?style=social&color=white)](https://github.com/decoded-cipher/nodrix/stargazers) | TypeScript, Cloudflare Workers & D1 | HTTPS, WebSockets | Serverless edge IoT platform with native MCP AI server |
-| **14** | **[NAOS](https://github.com/256dpi/naos)** | [![GitHub stars](https://img.shields.io/github/stars/256dpi/naos?style=social&color=white)](https://github.com/256dpi/naos/stargazers) | C, ESP-IDF, CLI in Go | MQTT, BLE, WebSocket, OSC | Networked ESP32 device firmware toolkit with live logs |
-| **15** | **[MapexOS](https://github.com/Mapex-Solutions/mapexOS)** | [![GitHub stars](https://img.shields.io/github/stars/Mapex-Solutions/mapexOS?style=social&color=white)](https://github.com/Mapex-Solutions/mapexOS/stargazers) | TypeScript, Docker, Temporal DAG | MQTT, HTTP, LoRaWAN | Multi-tenant platform with visual DAG workflows |
-| **16** | **[DeviceSDK](https://github.com/device-sdk/devicesdk)** | [![GitHub stars](https://img.shields.io/github/stars/device-sdk/devicesdk?style=social&color=white)](https://github.com/device-sdk/devicesdk/stargazers) | TypeScript, SQLite, Single-Container | WebSockets, mDNS | Edge runtime for ESP32 and Raspberry Pi Pico |
-| **17** | **[EsoCore](https://github.com/newmatik/EsoCore)** | [![GitHub stars](https://img.shields.io/github/stars/newmatik/EsoCore?style=social&color=white)](https://github.com/newmatik/EsoCore/stargazers) | Python (Django), Nuxt.js, STM32 | Modbus RTU, RS-485, REST | Open-source factory machine condition monitoring stack |
+| **1** | **[Home Assistant](https://github.com/home-assistant/core)** | [![GitHub_Stars](https://img.shields.io/github/stars/home-assistant/core?style=social&color=white)](https://github.com/home-assistant/core/stargazers) | Python, Asyncio, SQLite/PostgreSQL | MQTT, Zigbee, Z-Wave, Matter, HTTP | Local-first smart home & building sensor automation |
+| **2** | **[Node-RED](https://github.com/node-red/node-red)** | [![GitHub_Stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers) | Node.js, Flow-based Visual Runtime | MQTT, HTTP, WebSockets, Modbus, TCP | Visual event-driven logic & hardware integration |
+| **3** | **[ThingsBoard](https://github.com/thingsboard/thingsboard)** | [![GitHub_Stars](https://img.shields.io/github/stars/thingsboard/thingsboard?style=social&color=white)](https://github.com/thingsboard/thingsboard/stargazers) | Java, Netty, PostgreSQL/Cassandra | MQTT, CoAP, HTTP, LwM2M | Turnkey enterprise IoT platform & rule chains |
+| **4** | **[EMQX](https://github.com/emqx/emqx)** | [![GitHub_Stars](https://img.shields.io/github/stars/emqx/emqx?style=social&color=white)](https://github.com/emqx/emqx/stargazers) | Erlang/OTP, BEAM, Distributed Cluster | MQTT 3.1.1/5.0, MQTT-SN, CoAP | High-throughput broker handling 100M+ connections |
+| **5** | **[ESPHome](https://github.com/esphome/esphome)** | [![GitHub_Stars](https://img.shields.io/github/stars/esphome/esphome?style=social&color=white)](https://github.com/esphome/esphome/stargazers) | C++, Python, YAML Configuration | Native API, MQTT, BLE | No-code sensor firmware compilation for ESP8266/ESP32 |
+| **6** | **[Eclipse Mosquitto](https://github.com/eclipse/mosquitto)** | [![GitHub_Stars](https://img.shields.io/github/stars/eclipse/mosquitto?style=social&color=white)](https://github.com/eclipse/mosquitto/stargazers) | C, Single-threaded Event Loop | MQTT 3.1, 3.1.1, 5.0, WebSockets | Ultra-lightweight edge & gateway MQTT message routing |
+| **7** | **[dgiot](https://github.com/dgiot/dgiot)** | [![GitHub_Stars](https://img.shields.io/github/stars/dgiot/dgiot?style=social&color=white)](https://github.com/dgiot/dgiot/stargazers) | Erlang/OTP, TDengine Time-Series | Modbus, OPC UA, BACnet, MQTT | Million-device industrial protocol aggregation |
+| **8** | **[Mongoose OS](https://github.com/cesanta/mongoose-os)** | [![GitHub_Stars](https://img.shields.io/github/stars/cesanta/mongoose-os?style=social&color=white)](https://github.com/cesanta/mongoose-os/stargazers) | C, JavaScript (mJS), FreeRTOS | MQTT, WebSockets, HTTPS | Microcontroller firmware framework with OTA & crypto |
+| **9** | **[Magistrala](https://github.com/absmach/magistrala)** | [![GitHub_Stars](https://img.shields.io/github/stars/absmach/magistrala?style=social&color=white)](https://github.com/absmach/magistrala/stargazers) | Go, Microservices, NATS, Redis | MQTT, CoAP, HTTP, WebSocket | Cloud-native modular IoT messaging backbone (LF Edge) |
+| **10** | **[EdgeX Foundry](https://github.com/edgexfoundry/edgex-go)** | [![GitHub_Stars](https://img.shields.io/github/stars/edgexfoundry/edgex-go?style=social&color=white)](https://github.com/edgexfoundry/edgex-go/stargazers) | Go, Dockerized Microservices | REST, MQTT, Modbus, BACnet, OPC UA | Vendor-neutral edge computing interoperability framework |
+| **11** | **[openHAB](https://github.com/openhab/openhab-core)** | [![GitHub_Stars](https://img.shields.io/github/stars/openhab/openhab-core?style=social&color=white)](https://github.com/openhab/openhab-core/stargazers) | Java, OSGi Modular Architecture | KNX, EnOcean, Z-Wave, MQTT, HTTP | Vendor-neutral enterprise & home automation platform |
+| **12** | **[ChirpStack](https://github.com/chirpstack/chirpstack)** | [![GitHub_Stars](https://img.shields.io/github/stars/chirpstack/chirpstack?style=social&color=white)](https://github.com/chirpstack/chirpstack/stargazers) | Rust, PostgreSQL, Redis | LoRaWAN 1.0.x / 1.1, MQTT | Self-hosted LoRaWAN Network Server stack |
+| **13** | **[nodrix](https://github.com/decoded-cipher/nodrix)** | [![GitHub_Stars](https://img.shields.io/github/stars/decoded-cipher/nodrix?style=social&color=white)](https://github.com/decoded-cipher/nodrix/stargazers) | TypeScript, Cloudflare Workers & D1 | HTTPS, WebSockets | Serverless edge IoT platform with native MCP AI server |
+| **14** | **[NAOS](https://github.com/256dpi/naos)** | [![GitHub_Stars](https://img.shields.io/github/stars/256dpi/naos?style=social&color=white)](https://github.com/256dpi/naos/stargazers) | C, ESP-IDF, CLI in Go | MQTT, BLE, WebSocket, OSC | Networked ESP32 device firmware toolkit with live logs |
+| **15** | **[MapexOS](https://github.com/Mapex-Solutions/mapexOS)** | [![GitHub_Stars](https://img.shields.io/github/stars/Mapex-Solutions/mapexOS?style=social&color=white)](https://github.com/Mapex-Solutions/mapexOS/stargazers) | TypeScript, Docker, Temporal DAG | MQTT, HTTP, LoRaWAN | Multi-tenant platform with visual DAG workflows |
+| **16** | **[DeviceSDK](https://github.com/device-sdk/devicesdk)** | [![GitHub_Stars](https://img.shields.io/github/stars/device-sdk/devicesdk?style=social&color=white)](https://github.com/device-sdk/devicesdk/stargazers) | TypeScript, SQLite, Single-Container | WebSockets, mDNS | Edge runtime for ESP32 and Raspberry Pi Pico |
+| **17** | **[EsoCore](https://github.com/newmatik/EsoCore)** | [![GitHub_Stars](https://img.shields.io/github/stars/newmatik/EsoCore?style=social&color=white)](https://github.com/newmatik/EsoCore/stargazers) | Python (Django), Nuxt.js, STM32 | Modbus RTU, RS-485, REST | Open-source factory machine condition monitoring stack |
 
 ---
 
 ### 🔍 In-Depth Open-Source Project Details
 
-#### 1. 🏠 [Home Assistant](https://github.com/home-assistant/core) [![GitHub stars](https://img.shields.io/github/stars/home-assistant/core?style=social&color=white)](https://github.com/home-assistant/core/stargazers)
+#### 1. 🏠 [Home Assistant](https://github.com/home-assistant/core) [![GitHub_Stars](https://img.shields.io/github/stars/home-assistant/core?style=social&color=white)](https://github.com/home-assistant/core/stargazers)
 - **Primary Focus**: Local-first home and facility automation with privacy at its foundation.
 - **Key Architecture**: Written in Python with an asynchronous core; supports over 2,000 modular integrations spanning temperature sensors, power meters, smart plugs, cameras, and heating systems.
 - **Deployment**: Runs on Raspberry Pi, Home Assistant Green, Docker containers, or x86 server hardware via Home Assistant OS.
 - **License**: Apache 2.0.
 
-#### 2. 🔀 [Node-RED](https://github.com/node-red/node-red) [![GitHub stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers)
+#### 2. 🔀 [Node-RED](https://github.com/node-red/node-red) [![GitHub_Stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers)
 - **Primary Focus**: Flow-based visual programming tool for connecting physical IoT hardware devices, web APIs, and online databases.
 - **Key Architecture**: Lightweight Node.js event-driven runtime; features a browser-based flow editor with an ecosystem of over 4,000 community nodes for Modbus, OPC UA, MQTT, and Bluetooth.
 - **Deployment**: Deploys on Raspberry Pi, industrial edge gateways, Docker, and Kubernetes clusters.
 - **License**: Apache 2.0.
 
-#### 3. 📊 [ThingsBoard](https://github.com/thingsboard/thingsboard) [![GitHub stars](https://img.shields.io/github/stars/thingsboard/thingsboard?style=social&color=white)](https://github.com/thingsboard/thingsboard/stargazers)
+#### 3. 📊 [ThingsBoard](https://github.com/thingsboard/thingsboard) [![GitHub_Stars](https://img.shields.io/github/stars/thingsboard/thingsboard?style=social&color=white)](https://github.com/thingsboard/thingsboard/stargazers)
 - **Primary Focus**: Comprehensive, full-featured IoT application enablement platform (AEP) for device fleet management and real-time visualization.
 - **Key Architecture**: High-performance Netty server architecture storing time-series measurements in PostgreSQL, Cassandra, or TimescaleDB; features drag-and-drop rule engine nodes for alert routing and alarm generation.
 - **Deployment**: Single-node Docker deployment up in under 10 minutes; microservices mode scales out with Kubernetes.
 - **License**: Apache 2.0 (Community Edition).
 
-#### 4. ⚡ [EMQX](https://github.com/emqx/emqx) [![GitHub stars](https://img.shields.io/github/stars/emqx/emqx?style=social&color=white)](https://github.com/emqx/emqx/stargazers)
+#### 4. ⚡ [EMQX](https://github.com/emqx/emqx) [![GitHub_Stars](https://img.shields.io/github/stars/emqx/emqx?style=social&color=white)](https://github.com/emqx/emqx/stargazers)
 - **Primary Focus**: Distributed, fault-tolerant MQTT messaging broker designed for massive telemetry throughput.
 - **Key Architecture**: Built on the Erlang/OTP BEAM virtual machine; handles up to 100 million concurrent MQTT client connections per cluster with sub-millisecond routing latency and native SQL-based rule evaluation.
 - **Deployment**: Standalone Linux binaries, Docker containers, Helm charts on Kubernetes.
 - **License**: Apache 2.0 (Community Edition).
 
-#### 5. 🛠️ [ESPHome](https://github.com/esphome/esphome) [![GitHub stars](https://img.shields.io/github/stars/esphome/esphome?style=social&color=white)](https://github.com/esphome/esphome/stargazers)
+#### 5. 🛠️ [ESPHome](https://github.com/esphome/esphome) [![GitHub_Stars](https://img.shields.io/github/stars/esphome/esphome?style=social&color=white)](https://github.com/esphome/esphome/stargazers)
 - **Primary Focus**: Declarative firmware generator for ESP8266 and ESP32 microcontrollers without writing C++ code.
 - **Key Architecture**: Define sensors, displays, relays, and connectivity in simple YAML configuration files; ESPHome automatically compiles optimized C++ firmware and flashes it over USB or over-the-air (OTA).
 - **Deployment**: Python CLI, Home Assistant Add-on, or standalone Docker container.
 - **License**: Dual GPL-v3 / MIT.
 
-#### 6. 🦟 [Eclipse Mosquitto](https://github.com/eclipse/mosquitto) [![GitHub stars](https://img.shields.io/github/stars/eclipse/mosquitto?style=social&color=white)](https://github.com/eclipse/mosquitto/stargazers)
+#### 6. 🦟 [Eclipse Mosquitto](https://github.com/eclipse/mosquitto) [![GitHub_Stars](https://img.shields.io/github/stars/eclipse/mosquitto?style=social&color=white)](https://github.com/eclipse/mosquitto/stargazers)
 - **Primary Focus**: Ultra-lightweight, high-efficiency MQTT protocol message broker.
 - **Key Architecture**: Implemented in clean C with minimal memory overhead (typically under 10 MB RAM); strictly complies with MQTT version 5.0, 3.1.1, and 3.1 specifications.
 - **Deployment**: Runs on constrained embedded Linux routers, OpenWrt boxes, Raspberry Pi edge gateways, and micro-containers.
 - **License**: Eclipse Public License 2.0.
 
-#### 7. 🏭 [dgiot](https://github.com/dgiot/dgiot) [![GitHub stars](https://img.shields.io/github/stars/dgiot/dgiot?style=social&color=white)](https://github.com/dgiot/dgiot/stargazers)
+#### 7. 🏭 [dgiot](https://github.com/dgiot/dgiot) [![GitHub_Stars](https://img.shields.io/github/stars/dgiot/dgiot?style=social&color=white)](https://github.com/dgiot/dgiot/stargazers)
 - **Primary Focus**: Open-source industrial IoT (IIoT) aggregation engine built for million-device industrial scale.
 - **Key Architecture**: Erlang/OTP architecture integrated with TDengine high-speed time-series storage; ships with protocol decoders for over 300 industrial standards (Modbus, OPC UA, DL/T645, CJ/T188, BACnet).
 - **Deployment**: One-click Docker Compose deployment completes in ~6 minutes.
 - **License**: Apache 2.0.
 
-#### 8. 📦 [Mongoose OS](https://github.com/cesanta/mongoose-os) [![GitHub stars](https://img.shields.io/github/stars/cesanta/mongoose-os?style=social&color=white)](https://github.com/cesanta/mongoose-os/stargazers)
+#### 8. 📦 [Mongoose OS](https://github.com/cesanta/mongoose-os) [![GitHub_Stars](https://img.shields.io/github/stars/cesanta/mongoose-os?style=social&color=white)](https://github.com/cesanta/mongoose-os/stargazers)
 - **Primary Focus**: Complete firmware development environment and runtime for low-power commercial microcontrollers.
 - **Key Architecture**: Provides hardened mbedTLS encryption, dual-bank flash memory for fail-safe OTA updates, and pre-integrated cloud connectors for AWS IoT, Azure IoT, and Google Cloud; code in C or embedded JavaScript (mJS).
 - **Deployment**: Flashes to ESP32, ESP8266, STM32, and TI CC3220 chips via `mos` CLI.
 - **License**: Apache 2.0 (Community Edition).
 
-#### 9. 🔌 [Magistrala](https://github.com/absmach/magistrala) *(formerly Mainflux)* [![GitHub stars](https://img.shields.io/github/stars/absmach/magistrala?style=social&color=white)](https://github.com/absmach/magistrala/stargazers)
+#### 9. 🔌 [Magistrala](https://github.com/absmach/magistrala) *(formerly Mainflux)* [![GitHub_Stars](https://img.shields.io/github/stars/absmach/magistrala?style=social&color=white)](https://github.com/absmach/magistrala/stargazers)
 - **Primary Focus**: Linux Foundation Edge hosted, cloud-native IoT microservices backbone.
 - **Key Architecture**: Written in Go using event-driven microservices interconnected via NATS message bus; exposes uniform REST, MQTT, WebSocket, and CoAP protocol adapters with granular mTLS and JWT identity control.
 - **Deployment**: Docker Compose and Kubernetes Helm charts.
 - **License**: Apache 2.0.
 
-#### 10. 🌐 [EdgeX Foundry](https://github.com/edgexfoundry/edgex-go) [![GitHub stars](https://img.shields.io/github/stars/edgexfoundry/edgex-go?style=social&color=white)](https://github.com/edgexfoundry/edgex-go/stargazers)
+#### 10. 🌐 [EdgeX Foundry](https://github.com/edgexfoundry/edgex-go) [![GitHub_Stars](https://img.shields.io/github/stars/edgexfoundry/edgex-go?style=social&color=white)](https://github.com/edgexfoundry/edgex-go/stargazers)
 - **Primary Focus**: Vendor-neutral open-source edge computing middleware framework under the Linux Foundation Edge umbrella.
 - **Key Architecture**: Modular Go microservices divided into Core Services, Supporting Services, and Device Services; normalizes disparate protocols (Modbus, OPC UA, REST, MQTT) into unified edge telemetry before forwarding upstream.
 - **Deployment**: Containerized Docker and Snap deployments on edge appliances.
 - **License**: Apache 2.0.
 
-#### 11. 💡 [openHAB](https://github.com/openhab/openhab-core) [![GitHub stars](https://img.shields.io/github/stars/openhab/openhab-core?style=social&color=white)](https://github.com/openhab/openhab-core/stargazers)
+#### 11. 💡 [openHAB](https://github.com/openhab/openhab-core) [![GitHub_Stars](https://img.shields.io/github/stars/openhab/openhab-core?style=social&color=white)](https://github.com/openhab/openhab-core/stargazers)
 - **Primary Focus**: Pure Java-based, vendor-neutral automation platform for buildings, sensors, and peripherals.
 - **Key Architecture**: Built upon the OSGi modular framework; provides vendor-independent abstraction layers for protocols like KNX, EnOcean, Z-Wave, Zigbee, and MQTT.
 - **Deployment**: Multi-platform JVM support (Linux, macOS, Windows, Raspberry Pi).
 - **License**: Eclipse Public License 2.0.
 
-#### 12. 📻 [ChirpStack](https://github.com/chirpstack/chirpstack) [![GitHub stars](https://img.shields.io/github/stars/chirpstack/chirpstack?style=social&color=white)](https://github.com/chirpstack/chirpstack/stargazers)
+#### 12. 📻 [ChirpStack](https://github.com/chirpstack/chirpstack) [![GitHub_Stars](https://img.shields.io/github/stars/chirpstack/chirpstack?style=social&color=white)](https://github.com/chirpstack/chirpstack/stargazers)
 - **Primary Focus**: Open-source LoRaWAN Network Server stack for long-range, low-power private networks.
 - **Key Architecture**: Written in Rust for speed and minimal memory footprint; manages LoRaWAN gateway communication, device activations (OTAA/ABP), deduplication, and payload encryption before publishing to MQTT.
 - **Deployment**: Docker Compose or standalone Rust binaries with PostgreSQL and Redis.
 - **License**: MIT.
 
-#### 13. ☁️ [nodrix](https://github.com/decoded-cipher/nodrix) [![GitHub stars](https://img.shields.io/github/stars/decoded-cipher/nodrix?style=social&color=white)](https://github.com/decoded-cipher/nodrix/stargazers)
+#### 13. ☁️ [nodrix](https://github.com/decoded-cipher/nodrix) [![GitHub_Stars](https://img.shields.io/github/stars/decoded-cipher/nodrix?style=social&color=white)](https://github.com/decoded-cipher/nodrix/stargazers)
 - **Primary Focus**: Serverless, zero-maintenance IoT platform running in a user's own Cloudflare account.
 - **Key Architecture**: Leverages Cloudflare Workers, Durable Objects, D1 SQL, and R2 storage; includes real-time drag-and-drop dashboards, visual automations, and a native Model Context Protocol (MCP) server for direct AI assistant control.
 - **Deployment**: Single command deployment using Cloudflare Wrangler CLI.
 - **License**: MIT.
 
-#### 14. 📱 [NAOS](https://github.com/256dpi/naos) [![GitHub stars](https://img.shields.io/github/stars/256dpi/naos?style=social&color=white)](https://github.com/256dpi/naos/stargazers)
+#### 14. 📱 [NAOS](https://github.com/256dpi/naos) [![GitHub_Stars](https://img.shields.io/github/stars/256dpi/naos?style=social&color=white)](https://github.com/256dpi/naos/stargazers)
 - **Primary Focus**: Firmware framework and developer tooling for building robust networked ESP32 connected peripherals.
 - **Key Architecture**: ESP-IDF component that automates device parameter synchronization, metrics collection, and live log tailing over MQTT, BLE, and WebSockets; includes a Go CLI and terminal UI.
 - **Deployment**: Embedded flashing to ESP32 microcontrollers.
 - **License**: Apache 2.0.
 
-#### 15. 🔄 [MapexOS](https://github.com/Mapex-Solutions/mapexOS) [![GitHub stars](https://img.shields.io/github/stars/Mapex-Solutions/mapexOS?style=social&color=white)](https://github.com/Mapex-Solutions/mapexOS/stargazers)
+#### 15. 🔄 [MapexOS](https://github.com/Mapex-Solutions/mapexOS) [![GitHub_Stars](https://img.shields.io/github/stars/Mapex-Solutions/mapexOS?style=social&color=white)](https://github.com/Mapex-Solutions/mapexOS/stargazers)
 - **Primary Focus**: Multi-tenant enterprise IoT platform with visual DAG workflows and dynamic telemetry pipelines.
 - **Key Architecture**: Features JavaScript-based data transformation pipelines, an event routing engine inspired by Temporal.io, and granular multi-organization RBAC.
 - **Deployment**: Self-hostable via Docker Compose with multi-architecture images for ARM64, Raspberry Pi, and x86.
 - **License**: AGPL-3.0.
 
-#### 16. ⚡ [DeviceSDK](https://github.com/device-sdk/devicesdk) [![GitHub stars](https://img.shields.io/github/stars/device-sdk/devicesdk?style=social&color=white)](https://github.com/device-sdk/devicesdk/stargazers)
+#### 16. ⚡ [DeviceSDK](https://github.com/device-sdk/devicesdk) [![GitHub_Stars](https://img.shields.io/github/stars/device-sdk/devicesdk?style=social&color=white)](https://github.com/device-sdk/devicesdk/stargazers)
 - **Primary Focus**: Free, self-hosted IoT runtime for writing TypeScript device logic on personal hardware.
 - **Key Architecture**: Connects ESP32 and Raspberry Pi Pico microcontrollers over WebSockets; single-container deployment with SQLite persistence, mDNS local discovery, and a CLI for remote code deployment.
 - **Deployment**: Single Docker container for Raspberry Pi, NUC, or home NAS.
 - **License**: AGPL-3.0.
 
-#### 17. 🎛️ [EsoCore](https://github.com/newmatik/EsoCore) [![GitHub stars](https://img.shields.io/github/stars/newmatik/EsoCore?style=social&color=white)](https://github.com/newmatik/EsoCore/stargazers)
+#### 17. 🎛️ [EsoCore](https://github.com/newmatik/EsoCore) [![GitHub_Stars](https://img.shields.io/github/stars/newmatik/EsoCore?style=social&color=white)](https://github.com/newmatik/EsoCore/stargazers)
 - **Primary Focus**: Full-stack industrial IoT condition-monitoring system for factory machinery.
 - **Key Architecture**: Spans open-source PCB hardware schematics, STM32 embedded firmware, a Django REST API backend, and a modern Nuxt.js dashboard; communicates over Modbus RTU and RS-485.
 - **Deployment**: Custom electronics with Docker-based cloud backend.
@@ -229,7 +229,7 @@ We welcome contributions from developers, hardware hackers, and enterprise IoT a
 3. 📝 **Add or Update Entries**:
    - Ensure software descriptions remain factual, objective, and reference official project documentation.
    - For SaaS tools: Include specific starting price tiers and exact free tier/trial limits.
-   - For Open-Source tools: Include the official GitHub repository link and star badge.
+   - For Open-Source tools: Include the official GitHub repository link and Stars_Badge.
 4. 🚀 **Submit a Pull Request** with a concise summary of additions.
 
 > [!TIP]
